@@ -1,0 +1,29 @@
+{
+  "generationParameters": {
+    "generationDate": "Sat Jan 10 2026 19:06:02 GMT-0300 (Brasilia Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "Local CAP",
+    "metadataFilename": "",
+    "serviceUrl": "http://localhost:4004/odata/v4/wallets/",
+    "appName": "app-wallets",
+    "appTitle": "Carteiras",
+    "appDescription": "Carteiras",
+    "appNamespace": "br.com.cap.carteiras",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.143.2",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.20.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Wallets"
+      }
+    ],
+    "launchText": "To launch the generated app, start your CAP project:  and navigate to the following location in your browser:\n\nhttp://localhost:4004/br.com.cap.carteiras.appwallets/index.html"
+  }
+}

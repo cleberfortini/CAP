@@ -1,0 +1,29 @@
+{
+  "generationParameters": {
+    "generationDate": "Sat Jan 10 2026 20:39:26 GMT-0300 (Brasilia Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "Local CAP",
+    "metadataFilename": "",
+    "serviceUrl": "http://localhost:4004/odata/v4/movements-types/",
+    "appName": "app-movements-type",
+    "appTitle": "Tipos de Movimentos",
+    "appDescription": "Tipos de Movementos",
+    "appNamespace": "br.com.cap.movements.types",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.143.2",
+    "enableCodeAssist": false,
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.20.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "MovementsTypes"
+      }
+    ],
+    "launchText": "To launch the generated app, start your CAP project:  and navigate to the following location in your browser:\n\nhttp://localhost:4004/br.com.cap.movements.types.appmovementstype/index.html"
+  }
+}
